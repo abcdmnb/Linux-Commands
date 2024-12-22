@@ -1,6 +1,9 @@
 Find Command:
+
 	Purpose:  To find the files/directories based on name,type,size
+
 	Syntax: find <path> <expression>    #  . indicates current directory or we can give any specific path
+
 	Options:
 •	-name  < file nme>: To search with with name
 •	-i  : to make case insensitive #can use -iname to search for the name along with case insensitives
