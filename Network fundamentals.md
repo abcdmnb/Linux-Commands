@@ -7,6 +7,8 @@ TCP is reliable it through the success/unsuccessful message, so that we can send
 
 **Types** -> Ethernet (WIred) / Wifi (wireless)       ## some devices may have more Network interfaces
 
+**Network Manager** -> software utility used for to configure and manage network interfaces. It will be available both in GUI and CMI. 
+
 
 ### Commands
 IP Address -> **ip a | ip addr | ip addr show | ifconfig | hostname -I**
