@@ -6,3 +6,7 @@ TCP is reliable it through the success/unsuccessful message, so that we can send
 **Purpose** -> sends or receives the data
 
 **Types** -> Ethernet (WIred) / Wifi (wireless)       ## some devices may have more Network interfaces
+
+
+### Commands
+IP Address -> **ip a | ip addr | ip addr show | ifconfig | hostname -I**
